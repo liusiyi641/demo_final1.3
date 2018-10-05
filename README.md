@@ -1,5 +1,5 @@
 # Demo of our second game Capsoul
-# demo_final1.3
+# All of our codes are contained in Assets/Scripts
 #2018.5
 
 
